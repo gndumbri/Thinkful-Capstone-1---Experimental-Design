@@ -1,4 +1,4 @@
-# Thinkful-Capstone-1
+# Thinkful Capstone Experimental Design
 
 This capstone was a project utilizing skills in experimental design, data analysis, and data visualization. In this project I reviewed a data set of about 22,000 records to look at college admission requirements among colleges and universities in 5 states (MI, OH, WI, IL, IN). 
 
